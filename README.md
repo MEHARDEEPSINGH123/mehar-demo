@@ -1,3 +1,3 @@
 # mehar-demo
-This is my first git hub repository
-author - mehardeep singh
+This is my first Git Repository
+Author - Mehardeep Singh
